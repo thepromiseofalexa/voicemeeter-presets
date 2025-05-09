@@ -1,2 +1,1 @@
-# voicemeeter-presets
-Пресеты для Voicemeeter Banana.
+# Voicemeeter Banana Presets
